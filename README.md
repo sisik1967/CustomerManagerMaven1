@@ -11,3 +11,5 @@ This program was build and installed to be used by another (2. project).
 In this project, I used Object-Oriented Principles such as inheritance, polimorphism, encapsulation, abstraction, composition, and interface.
 
 I also practiced "Project Build Tool" and "Apache Maven" in Java.
+
+I added one more coffee company (Dunkin' Donuts) in the project.

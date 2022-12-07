@@ -6,3 +6,4 @@ Concrete\StarbucksCustomerManager.class
 Abstract\CustomerCheckManager.class
 Abstract\IEntity.class
 Entities\Customer.class
+Concrete\DunkinDonutsCustomerManager.class
