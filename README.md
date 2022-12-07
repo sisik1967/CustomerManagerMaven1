@@ -1,6 +1,6 @@
 # CustomerManagerMaven1
 
-<h1> Calculator Manager Maven Project</h1>
+<h1> Customer Manager Maven Project</h1>
 
 This program is designed to store customer profiles for 2 cofee companies (Starbucks and Nero).
 
